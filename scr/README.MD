@@ -1,0 +1,1 @@
+This folder is intended to house all the source code related to AstroCrown. For example, if you have smart contracts written in Solidity or simulation scripts in JavaScript/Python, those files would go here.
