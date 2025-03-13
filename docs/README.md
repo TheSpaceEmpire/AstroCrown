@@ -1,0 +1,1 @@
+This directory is for documentation. It should include guides, API documentation, setup instructions, or any other detailed information that helps users and developers understand how to work with AstroCrown.
