@@ -1,0 +1,1 @@
+ This folder is for test scripts. In a project like AstroCrown, you might have tests that verify your smart contracts, simulate transactions, or ensure that your simulation models are working as expected.
