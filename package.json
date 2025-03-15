@@ -1,0 +1,12 @@
+{
+  "name": "astrocrown",
+  "version": "1.0.0",
+  "description": "Official currency project powering The Space Empire’s financial ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified for AstroCrown\" && exit 0"
+  },
+  "author": "HAAN",
+  "license": "MIT",
+  "dependencies": {}
+}
