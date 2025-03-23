@@ -1,1 +1,13 @@
+# Existing Blockchain Performance Reports
 
+Below is a list of collected blockchain performance reports, along with key metrics and summaries:
+
+| Report Name                              | Source             | Date       | Key Metrics Covered                                | Link                                                         |
+|------------------------------------------|--------------------|------------|----------------------------------------------------|--------------------------------------------------------------|
+| 2023 Annual Crypto Industry Report       | CoinGecko          | 2023       | Market cap, trading volume, BTC/ETH performance    | [CoinGecko Annual Report](https://assets.coingecko.com/reports/2023/CoinGecko-2023-Annual-Crypto-Industry-Report.pdf) |
+| 2023 Q1 Crypto Industry Report           | CoinGecko          | Q1 2023    | Market rally, asset performance, NFT & DeFi trends   | [2023 Q1 Report](https://www.coingecko.com/research/publications/2023-q1-crypto-report) |
+| 2023 Q3 Crypto Industry Report           | CoinGecko          | Q3 2023    | Market downturn, stablecoin changes, RWA, NFT volume | [2023 Q3 Report](https://www.coingecko.com/research/publications/2023-q3-crypto-report) |
+| Messari Crypto Market Report 2023         | Messari            | 2023       | TPS, fees, security, adoption metrics              | [Messari Research](https://messari.io/research)                |
+| Electric Capital Developer Report 2023    | Electric Capital   | 2023       | Developer metrics, network scalability             | [Electric Capital Research](https://www.electriccapital.com/research) |
+| Solana Ecosystem Report                   | Solana Compass     | 2023       | TPS, latency, fees, ecosystem adoption             | [Solana Compass](https://solanacompass.com/)                   |
+| Ethereum Technical Updates & Whitepapers  | Ethereum Foundation| 2023       | Network upgrades, scalability, security            | [Ethereum Foundation](https://ethereum.org/en/developers/)     |
